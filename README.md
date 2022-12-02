@@ -61,7 +61,7 @@
 - **OTHER**\
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;
-<img src="https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=ffca28" alt="Firebase">&nbsp;
+<!-- <img src="https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=ffca28" alt="Firebase">&nbsp; -->
 <img src="https://img.shields.io/badge/docker-1A2B34?style=for-the-badge&logo=docker&logoColor=f7b93e" alt="Prettier">&nbsp;
 <img src="https://img.shields.io/badge/Kubernetes-1572B6?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CSS3">&nbsp;
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="CSS3">&nbsp;
