@@ -72,16 +72,13 @@
 ## 📊 &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="#"><img src="https://badges.pufler.dev/repos/hd-official-github"></a>
+<!--   <a href="#"><img src="https://badges.pufler.dev/repos/hd-official-github"></a>
   <a href="#"><img src="https://badges.pufler.dev/commits/monthly/hd-official-github"></a>
   <a href="#"><img src="https://badges.pufler.dev/visits/hd-official-github/hd-official-github"></a>
-  <a href="#"><img src="https://img.shields.io/github/followers/hd-official-github?label=followers"></a>
+  <a href="#"><img src="https://img.shields.io/github/followers/hd-official-github?label=followers"></a> -->
 </p>
 
 <p align="center">
-  <a href="https://github.com/hd-official-github">
-    <img src="https://github-readme-stats.vercel.app/api?username=hd-official-github&count_private=true&show_icons=true&theme=prussian" width="400">
-  </a>
   
   <a href="https://github.com/hd-official-github">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hd-official-github&langs_count=10&layout=compact&theme=prussian&hide=stylus,scss,php,shell,dockerfile" width="335">
