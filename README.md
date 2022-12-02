@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Building tech stuff for startups all around 🌎
+  Building tech stuff for enterprises all around 🌎
 </h3>
 
 <p align="center">
