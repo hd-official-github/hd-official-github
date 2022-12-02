@@ -27,7 +27,7 @@
 🦁 &nbsp;CSGO and chess are my top "downtime". _We mortal humans will die someday so I spend my time worthwhile. 💀\
 💡 &nbsp;**Inner child:** "Winter Feast"' the season I wish would last all year round 🎄 ☃️ ☕
 
-<!--🎭 &nbsp;Credit for the GIF animation on the right goes to [Wojtek Dziedzic](https://dribbble.com/wojtekdesigns "Wojtek Dziedzic") on Dribble 👏 -->
+🎭 &nbsp; **ML and Deep Learning** are on my wishlist.
 
 <!-- <br /> -->
 
