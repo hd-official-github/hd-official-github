@@ -24,7 +24,7 @@
 
  &nbsp;I’m learning microservices in depth for building scalable applications.\
 🖥 &nbsp;I’m building up my portfolio work and getting ready to find opportunities as a backend developer .\
-🦁 &nbsp;Street racing and gaming are my top "downtime". _Die with a smile 💀\
+🦁 &nbsp;CSGO and chess are my top "downtime". _We mortal humans will die someday so I spend my time worthwhile. 💀\
 💡 &nbsp;**Inner child:** "Winter Feast"' the season I wish would last all year round 🎄 ☃️ ☕
 
 🎭 &nbsp;Credit for the GIF animation on the right goes to [Wojtek Dziedzic](https://dribbble.com/wojtekdesigns "Wojtek Dziedzic") on Dribble 👏
