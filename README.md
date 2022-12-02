@@ -18,7 +18,7 @@
 <br />
 <br />
 
-<img src="https://cdn.dribbble.com/users/1464232/screenshots/3722893/animatin.gif" width="260px" height="auto" align="right">
+<img src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" width="260px" height="auto" align="right">
 
 ### 🎅 &nbsp;What's Up About Me
 
@@ -27,7 +27,7 @@
 🦁 &nbsp;CSGO and chess are my top "downtime". _We mortal humans will die someday so I spend my time worthwhile. 💀\
 💡 &nbsp;**Inner child:** "Winter Feast"' the season I wish would last all year round 🎄 ☃️ ☕
 
-🎭 &nbsp;Credit for the GIF animation on the right goes to [Wojtek Dziedzic](https://dribbble.com/wojtekdesigns "Wojtek Dziedzic") on Dribble 👏
+<!--🎭 &nbsp;Credit for the GIF animation on the right goes to [Wojtek Dziedzic](https://dribbble.com/wojtekdesigns "Wojtek Dziedzic") on Dribble 👏 -->
 
 <!-- <br /> -->
 
