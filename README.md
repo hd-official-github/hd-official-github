@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://twitter.com/Himansh04650905">
+  <a href="https://twitter.com/theaffableguy">
     <img src="https://img.shields.io/twitter/follow/himanshu?logo=twitter&style=for-the-badge" align="center">        
   </a>
   <a href="https://instagram.com/himanshu.dy">
