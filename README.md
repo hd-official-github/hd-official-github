@@ -22,8 +22,8 @@
 
 ### 🎅 &nbsp;What's Up About Me
 
- &nbsp;I’m learning microservices in depth for building scalable applications.\
-🖥 &nbsp;I’m building up my portfolio work and getting ready to find opportunities as a backend developer .\
+<!--  &nbsp;I’m learning microservices in depth for building scalable applications.\ -->
+🖥 &nbsp;I’m building up my portfolio work and getting ready to find opportunities as a React or React native developer .\
 🦁 &nbsp;CSGO and chess are my top "downtime". _We mortal humans will die someday so I spend my time worthwhile. 💀\
 💡 &nbsp;**Inner child:** "Winter Feast"' the season I wish would last all year round 🎄 ☃️ ☕
 
