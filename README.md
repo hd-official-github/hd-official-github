@@ -1,109 +1,36 @@
-<h1 align="center">
-  👋 Sup Guys! I'm Himanshu 👨‍💻 
-</h1>
+<h1 align="center">Hi 👋, I'm Himanshu Dubey</h1>
+<h3 align="center">A Python Enthusiast from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h3 align="center">
-  Building tech stuff for enterprises all around 🌎
-</h3>
 
-<p align="center">
-  <a href="https://twitter.com/theaffableguy">
-    <img src="https://img.shields.io/twitter/follow/himanshu?logo=twitter&style=for-the-badge" align="center">        
-  </a>
-  <a href="https://instagram.com/himanshu.dy">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="center">        
-  </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshudubey&label=Profile%20views&color=0e75b6&style=flat" alt="himanshudubey" /> </p>
+
+<p align="left"> <a href="https://twitter.com/theaffableguy" target="blank"><img src="https://img.shields.io/twitter/follow/theaffableguy?logo=twitter&style=for-the-badge" alt="himanshudubey" /></a> </p>
+
+- 🔭 I’m currently working on **Generative AI**
+
+- 🌱 I’m currently learning **NLP and Machine Learning**
+
+- 💬 Ask me about **Python , MERN**
+
+- 📫 How to reach me **official.himanshudubey@gmail.com**
+
+- ⚡ Current Skills? Full stack developer ReactJS and Python Backend
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/theaffableguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himanshudubey" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/himanshu-dubey-679283276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-dubey-679283276" height="30" width="40" /></a>
+<a href="https://www.instagram.com/himanshu.dy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshu.dy" height="30" width="40" /></a>
 </p>
 
-<br />
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy.org" width="40" height="40"/> </a> <a href="https://python.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://python.langchain.com/img/parrot-chainlink-icon.png" alt="langchain.com" width="80" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a></p>
 
-<img src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" width="260px" height="auto" align="right">
+[![Himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hd-official-github&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 🎅 &nbsp;What's Up About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hd-official-github&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="himanshudubey" /></p>
 
-<!--  &nbsp;I’m learning microservices in depth for building scalable applications.\ -->
-🖥 &nbsp;I’m building up my portfolio work and getting ready to find opportunities as a React or React native developer .\
-🦁 &nbsp;CSGO and chess are my top "downtime". _We mortal humans will die someday so I spend my time worthwhile. 💀\
-💡 &nbsp;**Inner child:** "Winter Feast"' the season I wish would last all year round 🎄 ☃️ ☕
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hd-official-github&show_icons=true&locale=en&theme=tokyonight" alt="hd-official-github" /></p>
 
-🎭 &nbsp; **ML and Deep Learning** are on my wishlist.
-
-<!-- <br /> -->
-
-## 🛠️ &nbsp;Tech Stack
-
-- **MOBILE**\
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">&nbsp;
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">&nbsp;
-
-<!-- - **FRONTEND** -->
-<!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">&nbsp; -->
-<!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">&nbsp;
-<img src="https://img.shields.io/badge/redux-4B32C3?style=for-the-badge&logo=redux&logoColor=white" alt="Styled Components">&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">&nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="HTML5">&nbsp; -->
-  
-- **BACKEND**\
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow" alt="Python">&nbsp;
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">&nbsp;
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">&nbsp;
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MongoDB">&nbsp;
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="">&nbsp;
-<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" alt="">&nbsp;
-<img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="">&nbsp;
-
-- **OTHER**\
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;
-<img src="https://img.shields.io/badge/docker-1A2B34?style=for-the-badge&logo=docker&logoColor=f7b93e" alt="Prettier">&nbsp;
-<img src="https://img.shields.io/badge/Kubernetes-1572B6?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CSS3">&nbsp;
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="CSS3">&nbsp;
-<img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="CSS3">&nbsp;
-<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" alt="CSS3">&nbsp;
-
-
-## 📊 &nbsp;GitHub Analytics
-
-<p align="center">
-<!--   <a href="#"><img src="https://badges.pufler.dev/repos/hd-official-github"></a>
-  <a href="#"><img src="https://badges.pufler.dev/commits/monthly/hd-official-github"></a>
-  <a href="#"><img src="https://badges.pufler.dev/visits/hd-official-github/hd-official-github"></a>
-  <a href="#"><img src="https://img.shields.io/github/followers/hd-official-github?label=followers"></a> -->
-</p>
-
-<p align="center">
-  
-  <a href="https://github.com/hd-official-github">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hd-official-github&langs_count=10&layout=compact&theme=prussian&hide=stylus,scss,php,shell,dockerfile" width="335">
-  </a>
-</p>
-
-
-## ☕️ &nbsp;Power Supply Support
-
-<p align='center'>
-  <a href="https://www.buymeacoffee.com/hdofficial"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=hdofficial&button_colour=ff813f&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
-</p>
-
-
-
-
-<!--
-**hd-official-github/hd-official-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hd-official-github&&theme=tokyonight" alt="hd-official-github" /></p>
