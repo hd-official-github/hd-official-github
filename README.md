@@ -11,17 +11,18 @@
 
 - 🌱 I’m currently learning **NLP and Machine Learning**
 
-- 💬 Ask me about **Python , MERN**
+- 💬 Ask me about **Python , React, NodeJS**
 
 - 📫 How to reach me **official.himanshudubey@gmail.com**
 
-- ⚡ Current Skills? Full stack developer ReactJS and Python Backend
+- ⚡ Current Skills? ReactJS and Python Backend (Microservices)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/theaffableguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himanshudubey" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/himanshu-dubey-679283276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-dubey-679283276" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/himanshu~dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-dubey-679283276" height="30" width="40" /></a>
 <a href="https://www.instagram.com/himanshu.dy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshu.dy" height="30" width="40" /></a>
+<a href="https://himanshudubey.notion.site/Himanshu-Dubey-s-Portfolio-6a3ce5cc4656426abc0e14f665557b8e?pvs=4" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="himanshu.notion.site" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
